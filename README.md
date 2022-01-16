@@ -1,5 +1,5 @@
+![LOGOmicra](https://user-images.githubusercontent.com/97824024/149670350-7e6fbfd8-0cc1-41f1-b41e-853eef27a3cf.png)
 
-![](LOGOmicra.png)
 
 
 # MICRA Consulting
